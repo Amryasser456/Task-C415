@@ -1,5 +1,4 @@
 
-
 public class SampleTest {
 
     void testAddition() {
